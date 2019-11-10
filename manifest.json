@@ -1,0 +1,15 @@
+{
+    "name": "rubicon.news",
+    "description": "wrapper for rubicon.news for ubuntu.touch",
+    "architecture": "all",
+    "title": "rubicon",
+    "hooks": {
+        "rubicon": {
+            "apparmor": "rubicon.apparmor",
+            "desktop":  "rubicon.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Johan H van Breda <johan.van.breda@protonmail.com>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}
