@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=rubicon
-Exec=webapp-container --webappUrlPatterns=https?://www.rubikon.news//* https://www.rubikon.news/
+Exec=webapp-container --webappUrlPatterns=https?://www.rubikon.news/* https://www.rubikon.news
 Icon=logo.svg
 Terminal=false
 Type=Application
